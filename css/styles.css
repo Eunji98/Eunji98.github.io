@@ -11777,3 +11777,19 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+.height30{
+  height:30px;
+}
+
+.height20 {
+  height: 20px;
+}
+
+.text-orange{
+  color:orange;
+}
+
+.text-orangered {
+  color: var(--bs-orange);
+}
